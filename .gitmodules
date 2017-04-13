@@ -1,0 +1,9 @@
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/bigzed/dotfiles.git
+[submodule "tweetOmeter"]
+	path = tweetOmeter
+	url = git@github.com:bigzed/tweetOmeter.git
+[submodule "podshot"]
+	path = podshot
+	url = git@github.com:bigzed/podshot
